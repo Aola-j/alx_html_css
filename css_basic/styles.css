@@ -17,4 +17,34 @@ aside {
     flex: 1;
     overflow-y: auto;
 }
-
+table {
+     width: 100%;
+     border: 1px solid #ccc;
+     border-collapse: collapse;
+}
+th, td {
+      border: 1px solid #ddd;
+      padding: 12px;
+      text-align: left;
+}
+th {
+    background-color: #eaeaea;
+}
+header {
+    width: 100;
+    padding: 20px;
+    border-collapse: collapse;
+    background-color: antiquewhite;
+}
+footer {
+	padding: 5px;
+    background-color: rgb(220, 195, 195);
+    text-align: center;
+}
+header ul li a:hover {
+    background-color: rgb(233, 195, 195);
+}
+main article p a:hover, footer p a:hover {
+  color: #cb4514;
+  text-decoration: underline;
+}
