@@ -115,3 +115,63 @@ a {
     font-size: 10px;
     font-weight: bold;
 }
+/* QUOTE SECTION */
+.second {
+  display: flex;
+  background-color: #C271FF;
+  align-items: center;
+  color: white;
+  padding: 40px;
+  margin: auto;
+}
+.quote img{
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  margin-left: 50px;
+}
+.quote-text {
+  display: flex;
+  flex: 1;
+  margin-top: 50px;
+  margin-right: 50px;
+}
+.quote-text p {
+  text-align: left;
+  font-size: 10px;
+  font-weight: lighter;
+  text-align: center;
+}
+.quote-text h3 {
+  text-align: right;
+  font-size: 12px;
+}
+.quote-text blockquote {
+  font-style: italic;
+  padding: ;
+  border-left: px;
+  text-align: left;
+  font-size: 10px;
+  font-weight: lighter;
+  margin-bottom: 100px;
+}
+/*.quote {
+  display: flex;
+   align-items: flex-start;
+  margin: 20px 20px;
+}
+.quote img {
+  width: 100px;
+  margin-left: 50px;
+}
+.quote blockquote {
+  margin-right: 50px;
+  font-size: 10px;
+  text-align: left;
+}.
+.textquote {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  text-align: ;
+}*/
