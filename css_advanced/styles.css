@@ -243,6 +243,10 @@ margin-top: 70px;
   margin-left: 100px;
   gap: 10px;
 }
+.star {
+  color: grey;
+  opacity: 0.3;
+}
 /*Membership Section*/
 .membership {
   background-color: #071629;
@@ -312,4 +316,5 @@ margin-top: 70px;
   font-size: 10px;
   align-content: center;
   margin-top: 60px;
+  opacity: 0.3;
 }
