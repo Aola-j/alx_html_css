@@ -281,3 +281,25 @@ margin-top: 70px;
   align-content: center;
   margin-left: 40px;
 }
+.faq h2 {
+    font-size: 50px;
+    font-weight: lighter;
+    margin-top: 60px;
+}
+.faq-row {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin: 20px;
+  text-align: left;
+  margin-left: 260px;
+}
+.faq-row p {
+  width: 50%;
+  color: #95999e;
+  font-size: 15px;
+  margin-bottom: 80px;
+}
+.faq-row h3 {
+  font-size: 15px;
+}
