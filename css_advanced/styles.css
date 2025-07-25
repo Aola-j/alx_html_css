@@ -116,6 +116,7 @@ a {
     font-size: 10px;
     font-weight: bold;
 }
+
 /* QUOTE SECTION */
 .second {
   background-color: #C271FF;
@@ -160,26 +161,9 @@ a {
   font-size: 15px;
   font-weight: 1px;
 }
-/*.quote {
-  display: flex;
-   align-items: flex-start;
-  margin: 20px 20px;
-}
-.quote img {
-  width: 100px;
-  margin-left: 50px;
-}
-.quote blockquote {
-  margin-right: 50px;
-  font-size: 10px;
-  text-align: left;
-}.
-.textquote {
-  display: flex;
-  align-items: flex-start;
-  flex-direction: column;
-  text-align: ;
-}*/
+
+
+/*Tutorials Section*/
 .heading {
 font-style: normal;
 font-weight: 300;
@@ -257,7 +241,7 @@ margin-top: 70px;
   margin-left: 100px;
   gap: 10px;
 }
-
+/*Membership Section*/
 .membership {
   background-color: #071629;
   color: white;
@@ -281,6 +265,8 @@ margin-top: 70px;
   align-content: center;
   margin-left: 40px;
 }
+
+/*FAQ Section*/
 .faq h2 {
     font-size: 50px;
     font-weight: lighter;
@@ -303,6 +289,8 @@ margin-top: 70px;
 .faq-row h3 {
   font-size: 15px;
 }
+
+/*Footer Section*/
 .footer {
   background-color: #071629;
   padding: 50px;
