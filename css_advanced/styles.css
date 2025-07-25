@@ -16,10 +16,10 @@ header nav {
     align-items: center;
 }
 header nav ul li a {
-    padding: 30px 30px;
+    padding: 30px;
 }
 header img {
-    padding: 30px 30px;
+    padding: 30px;
     width: 100px;
     margin-bottom: 50px;
     margin-left: 100px;
@@ -31,6 +31,7 @@ header img {
     background-position: center;
     background-attachment: scroll;
     color: white;
+    padding: 10px;
 }
 button {
   background-color: #C271FF; /* Green */
@@ -39,7 +40,7 @@ button {
   border: none;              /* Remove default border */
   border-radius: 22px;        /* Rounded corners */
   cursor: pointer;
-  font-size: 7px;
+  font-size: 10px;
 }
 button:hover {
     color: #24063c;
@@ -70,7 +71,7 @@ a {
 }
 .with-bg h1 {
     font-weight: bold;
-    font-size: 60px;
+    font-size: 80px;
     margin: 20px;
 }
 .highlight{
@@ -255,4 +256,28 @@ margin-top: 70px;
   font-size: 10px;
   margin-left: 100px;
   gap: 10px;
+}
+
+.membership {
+  background-color: #071629;
+  color: white;
+  padding: 40px;
+}
+.member-box {
+   display: flex;
+  justify-content: center; /* or space-between or center */
+  align-items: flex-start;
+  margin: 50px;
+  width: ;
+}
+.membership button {
+  font-size: 10px;
+}
+.free {
+  color: #C271FF;
+}
+.membership p {
+  width: 80%;
+  align-content: center;
+  margin-left: 40px;
 }
