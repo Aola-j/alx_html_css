@@ -194,3 +194,44 @@ button:hover {
 
 /*Contact us section*/
 
+.contact-box {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.contact-box h1 {
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+.contact-form {
+ max-width: 500px;
+  margin: 50px auto; 
+  text-align: left;
+}
+
+
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  margin-bottom: 20px;
+  border: none;
+  border-bottom: 2px solid #ccc;
+  font-size: 16px;
+  text-align: left;
+  background: transparent;
+}
+
+button {
+    background-color: #FF6565 ;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    width: 162px;
+    align-items: center;
+}
