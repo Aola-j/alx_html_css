@@ -1,0 +1,196 @@
+
+.bckgrd-img {
+    background: url(images/background\ \(1\).png) no-repeat center;
+    background-size: cover;
+    align-content: center;
+}
+
+nav {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+nav div a { 
+   color: white;
+   text-decoration: none;
+   margin: 20px;
+   font-weight: bold; 
+}
+
+nav a:hover{
+ color:#ff6565;
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
+/*hero-section*/
+
+.hero-sec {
+    text-align: center;
+    padding: 300px 20px;
+    color: white;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.hero-sec h1 {
+    font-size: 40px;
+    font-weight: bold;
+    position: relative;
+    top: 120px;
+}
+
+.hero-sec h3 {
+    font-weight: bold;
+    font-size: 20px;
+    position: relative;
+    top: 130px;
+}
+
+.hero-sec button {
+    background-color: #FF6565 ;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 100px;
+    width: 162px;
+    position: relative;
+    top: 120px;
+}
+
+.hero-sec p {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
+    position: relative;
+    top: 200px;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+/* What we do section*/
+
+.what-sec {
+     max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.what-head {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.what-head h1 {
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+.what-head p {
+    font-size: 18px;
+    text-align: center;
+    line-height: 1.6;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.what-main {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 100px;
+    align-items: center;
+}
+
+.what-main img {
+    margin-bottom: 20px;
+    align-content: center;
+}
+
+.what-main h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.what-main p {
+    font-size: 16px;
+    width: 200px;
+    margin-top: 20px;
+    line-height: 1.6;
+}
+
+/*Our results section*/
+
+.result-sec {
+    background: url(images/background\ \(2\).png); no-repeat center;
+    background-size: cover;
+    align-content: center;
+    margin-top: 80px;
+}
+
+.result-con {
+    color: white;
+    padding: 150px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.result-head {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.result-head h1 {
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+.result-head p {
+    font-size: 18px;
+    line-height: 1.6;
+    max-width: 700px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.result-main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+     margin-top: 100px;
+     flex-wrap: wrap;
+     
+}
+
+.result-main div img {
+    margin-top: 100px;
+    align-content: center;
+    margin: 0 auto;
+}
+
+.result-main div h1 {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    bottom: 110px;
+}
+
+.result-main div p {
+    font-size: 14px;
+    text-align: center;
+    position: relative;
+    bottom: 100px;
+}
+
+/*Contact us section*/
+
