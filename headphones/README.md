@@ -16,4 +16,10 @@ The objective of this project is to practice and demonstrate core **HTML/CSS ski
 - Accessibility best practices.
 - Responsive design principles (mobile-first approach recommended).
 
+  ## Design & Assets
+- Design provided via [Figma](https://savanna.alxafrica.com/rltoken/pdZCu9bG39JdGro_nNsP2g)
+- Fonts used:
+  - [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)
+  - [Spin Cycle OT](https://www.fontspace.com/spin-cycle-font-f10034)
+
 
